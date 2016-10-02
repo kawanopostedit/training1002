@@ -22,7 +22,7 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 # bundle exec rake doc:rails generates the API under doc/api.
 
-gem 'amazon-ec2'
+gem 'aws-sdk', '~> 2.6', '>= 2.6.5'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
